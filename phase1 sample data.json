@@ -1,0 +1,41 @@
+{
+    "id":1,
+    "body":{
+        "group": "Family", "season":"Summer", "trip_type":"Holiday", "duration":"Weekend trip",
+        "location":{"id":152,"name":"Chicago","state":"IL","lat":41.85003,"lng":-87.65005},
+        "person": {"gender": "Male", "age": 23, "id": "A00126103VB6TFM3EITH9",
+                   "preferences":[
+                    {"documentId":"TRECCS-00247633-160","rating":3,"tags":["Museums"]},
+                    {"documentId":"TRECCS-00018097-160","rating":3,"tags":["Farmer's markets"]},
+                    {"documentId":"TRECCS-00674898-160","rating":2,"tags":["Seafood","Sushi"]},
+                    {"documentId":"TRECCS-00247531-160","rating":3,"tags":["Beer","Restaurants"]},
+                    {"documentId":"TRECCS-00809368-160","rating":-1},
+                    {"documentId":"TRECCS-00086637-160","rating":2,"tags":["Sport"]},
+                    {"documentId":"TRECCS-00085880-160","rating":3,"tags":["Seafood","Fine Dining"]},
+                    {"documentId":"TRECCS-00340169-160","rating":2,"tags":["Culture"]},
+                    {"documentId":"TRECCS-00675239-160","rating":3,"tags":["Fine Dining"]},
+                    {"documentId":"TRECCS-00247640-160","rating":3,"tags":["Live Music"]},
+                    {"documentId":"TRECCS-00674928-160","rating":2,"tags":["Restaurants"]},
+                    {"documentId":"TRECCS-00085961-160","rating":3,"tags":["Fine Dining"]},
+                    {"documentId":"TRECCS-00086797-160","rating":3,"tags":["Markets","Farmer's markets"]},
+                    {"documentId":"TRECCS-00087389-160","rating":2,"tags":["Shopping for shoes"]},
+                    {"documentId":"TRECCS-00086308-160","rating":2},
+                    {"documentId":"TRECCS-00674983-160","rating":3,"tags":["Fine Dining"]},
+                    {"documentId":"TRECCS-00086333-160","rating":3,"tags":["Art Galleries"]},
+                    {"documentId":"TRECCS-00018107-160","rating":3,"tags":["Fine Art Museums"]},
+                    {"documentId":"TRECCS-00086622-160","rating":3,"tags":["Fine Dining"]},
+                    {"documentId":"TRECCS-00809111-160","rating":1,"tags":["Cycling"]},
+                    {"documentId":"TRECCS-00086564-160","rating":3},
+                    {"documentId":"TRECCS-00086340-160","rating":1,"tags":["Bar-hopping"]},
+                    {"documentId":"TRECCS-00086298-160","rating":-1},
+                    {"documentId":"TRECCS-00018094-160","rating":3,"tags":["Theatre"]},
+                    {"documentId":"TRECCS-00247656-160","rating":3,"tags":["Bar-hopping"]},
+                    {"documentId":"TRECCS-00018110-160","rating":2,"tags":["Shopping for food","Markets","Organic Food"]},
+                    {"documentId":"TRECCS-00675013-160","rating":3,"tags":["Fine Dining"]},
+                    {"documentId":"TRECCS-00087026-160","rating":3,"tags":["Fine Dining"]},
+                    {"documentId":"TRECCS-00086310-160","rating":3},
+                    {"documentId":"TRECCS-00087258-160","rating":4,"tags":["Museums","Art Galleries"]}
+                            ]
+                   } 
+            }              
+}

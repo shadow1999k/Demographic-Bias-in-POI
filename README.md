@@ -11,4 +11,10 @@ This repository belong to demographic bias in POI. POI Point of interest (POI) d
 - G1: Male users
 - G2: Female users
 
+## Model
+
+```
+python cpfairrank_model.py -d TRECx1516 -ug age
+```
+
 

@@ -1,5 +1,5 @@
-# Datasets
+# Fair Datasets
 
-|  Dataset     | Domain    | Feedback Type | # Users | # Items | # Interactions |
-|--------------|-----------|---------------|---------|---------|----------------|
-| MovieLens100k    | Movie     |  Explicit     |  943    |  1,349  |   99,287       |
+|  Dataset     | Domain    | Feedback Type | # Users  | # Ratings |
+|--------------|-----------|---------------|----------|-----------|
+| MovieLens100k    | Movie     |  Explicit     |  273M, 273F   |   9980       |
